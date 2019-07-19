@@ -1,0 +1,8 @@
+[package]
+name = "mcc"
+version = "0.1.0"
+authors = ["Alex Taylor <alex@alext.xyz>"]
+edition = "2018"
+
+[dependencies]
+num-traits = "0.2"
